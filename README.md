@@ -7,7 +7,8 @@ Add items, mark them as packed, sort the list, and clear everything when you're 
 
 ## 🖼️ Screenshot
 
-public/POC.png
+![App Screenshot](https://raw.githubusercontent.com/SecurityTalent/Travel-list/refs/heads/main/public/POC.png)
+
 ---
 
 ## 🧰 Features
